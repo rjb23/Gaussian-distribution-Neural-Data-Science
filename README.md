@@ -1,0 +1,3 @@
+# Gaussian-distribution-Neural-Data-Science
+In the context of neural data science, Gaussian refers to the Gaussian distribution, also known as the normal distribution. The Gaussian distribution is a continuous probability distribution that is often used to model random variables in many fields, including neuroscience and neural data analysis.
+To work with Gaussian distributions in Python, you can use the SciPy library, which provides a wide range of functions and tools for scientific computing. The scipy.stats module within SciPy provides various statistical functions, including those related to the Gaussian distribution.
